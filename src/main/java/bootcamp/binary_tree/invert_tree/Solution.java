@@ -1,5 +1,17 @@
 package bootcamp.binary_tree.invert_tree;
 
+/*
+*
+*  Terminal condition  root != null
+*
+*  Take DFS approach and flip the child
+*
+*
+*
+*
+*
+* */
+
 public class Solution {
 
     public TreeNode invertTree(TreeNode root) {
