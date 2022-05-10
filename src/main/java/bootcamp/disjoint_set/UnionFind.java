@@ -37,8 +37,23 @@ public class UnionFind {
     @Override
     public String toString() {
         return "UnionFind{" +
-                "root=" + Arrays.toString(root) +
+                "root=" + ToString(root) +
                 '}';
+    }
+
+    private String ToString(int[] root) {
+        StringBuffer result = new StringBuffer("\n");
+        for (int i = 0; i < root.length; i++) {
+            result.append(i);
+            result.append(",");
+        }
+        result.append("\n");
+        for (int i = 0; i < root.length; i++) {
+            result.append(root[i]);
+            result.append(",");
+        }
+        return result.toString();
+
     }
 
     public static void main(String[] args) {
