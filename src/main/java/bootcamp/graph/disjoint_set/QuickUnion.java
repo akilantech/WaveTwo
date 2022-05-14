@@ -1,4 +1,4 @@
-package bootcamp.disjoint_set;
+package bootcamp.graph.disjoint_set;
 
 public class QuickUnion {
 

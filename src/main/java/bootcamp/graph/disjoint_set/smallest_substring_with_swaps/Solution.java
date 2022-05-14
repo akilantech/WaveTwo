@@ -1,4 +1,4 @@
-package bootcamp.disjoint_set.smallest_substring_with_swaps;
+package bootcamp.graph.disjoint_set.smallest_substring_with_swaps;
 
 import java.util.*;
 import java.util.stream.IntStream;

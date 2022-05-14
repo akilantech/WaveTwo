@@ -1,4 +1,4 @@
-package bootcamp.disjoint_set.no_of_provice;
+package bootcamp.graph.disjoint_set.no_of_provice;
 
 import java.util.Arrays;
 

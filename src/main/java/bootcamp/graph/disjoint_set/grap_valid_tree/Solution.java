@@ -1,6 +1,4 @@
-package bootcamp.disjoint_set.grap_valid_tree;
-
-import java.util.Arrays;
+package bootcamp.graph.disjoint_set.grap_valid_tree;
 
 public class Solution {
 

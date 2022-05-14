@@ -1,4 +1,4 @@
-package bootcamp.disjoint_set.is_valid_path_exists_dfs;
+package bootcamp.graph.disjoint_set.is_valid_path_exists_dfs;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package bootcamp.disjoint_set.largest_component_by_common_factor;
+package bootcamp.graph.disjoint_set.largest_component_by_common_factor;
 
 import java.util.Arrays;
 import java.util.HashMap;

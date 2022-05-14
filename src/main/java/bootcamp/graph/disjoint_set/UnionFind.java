@@ -1,6 +1,4 @@
-package bootcamp.disjoint_set;
-
-import java.util.Arrays;
+package bootcamp.graph.disjoint_set;
 
 public class UnionFind {
 

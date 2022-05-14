@@ -1,4 +1,4 @@
-package bootcamp.disjoint_set.solve_equation;
+package bootcamp.graph.disjoint_set.solve_equation;
 
 import javafx.util.Pair;
 

@@ -1,4 +1,4 @@
-package bootcamp.disjoint_set.earlies_moment_everyone_friends;
+package bootcamp.graph.disjoint_set.earlies_moment_everyone_friends;
 
 import java.util.Arrays;
 import java.util.Comparator;

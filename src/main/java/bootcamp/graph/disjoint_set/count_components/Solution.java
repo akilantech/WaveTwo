@@ -1,6 +1,4 @@
-package bootcamp.disjoint_set.count_components;
-
-import java.util.Arrays;
+package bootcamp.graph.disjoint_set.count_components;
 
 public class Solution {
 
